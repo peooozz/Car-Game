@@ -1,0 +1,44 @@
+[
+  {
+    "file": "/assets/cars/car1.glb",
+    "title": "Toon Turbo (Cartoon Car)",
+    "author": "Benjamin Aubert (Sketchfab)",
+    "license": "CC-BY-4.0",
+    "sourceUrl": "https://sketchfab.com/3d-models/cartoon-car-a5f6a99597d34c06832e7cc07e4a6c69"
+  },
+  {
+    "file": "/assets/cars/car2.glb",
+    "title": "Cicada Classic (Retro Cartoon Car)",
+    "author": "RCC Design (Sketchfab)",
+    "license": "CC-BY-4.0",
+    "sourceUrl": "https://sketchfab.com/3d-models/cicada-retro-cartoon-car-135b16b4f77249d8ad13185270f94251"
+  },
+  {
+    "file": "/assets/cars/car3.glb",
+    "title": "Cosmic Camper (Cartoon Toy Car)",
+    "author": "Render Bunny (Sketchfab)",
+    "license": "CC-BY-4.0",
+    "sourceUrl": "https://sketchfab.com/3d-models/cartoon-toy-car-character-illustration-ba4c5c1b78cd4608bf387101f0f2e0e4"
+  },
+  {
+    "file": "/assets/cars/car4.glb",
+    "title": "Hot Rod Hauler (Cartoon Car)",
+    "author": "alutsiv (Sketchfab)",
+    "license": "CC-BY-4.0",
+    "sourceUrl": "https://sketchfab.com/3d-models/cartoon-car-2036157fd4b649169769440c82e5e3f1"
+  },
+  {
+    "file": "/assets/cars/car5.glb",
+    "title": "Cyber Delorean (Cartoon Low Poly Futuristic Car)",
+    "author": "antonmoek (Sketchfab)",
+    "license": "CC-BY-4.0",
+    "sourceUrl": "https://sketchfab.com/3d-models/cartoon-low-poly-futuristic-car-994c56e9ecd74fbd9f760640cc7342e5"
+  },
+  {
+    "file": "/assets/cars/car6.glb",
+    "title": "Apex Aero (Cartoony Car)",
+    "author": "teryrocks32 (Sketchfab)",
+    "license": "CC-BY-4.0",
+    "sourceUrl": "https://sketchfab.com/3d-models/cartoony-car-ae0ea2ac9d0e4d669a8f9c0d36ec8ee5"
+  }
+]
